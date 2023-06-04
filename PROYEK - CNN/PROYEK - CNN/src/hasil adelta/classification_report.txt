@@ -1,0 +1,30 @@
+                      precision    recall  f1-score   support
+
+             apple_6       0.99      1.00      1.00       157
+    apple_braeburn_1       0.81      0.84      0.82       100
+apple_crimson_snow_1       0.67      0.95      0.79       159
+      apple_golden_1       0.66      0.99      0.79       150
+      apple_golden_2       0.92      0.87      0.90       154
+      apple_golden_3       0.66      0.80      0.72       158
+apple_granny_smith_1       0.67      0.65      0.66       160
+         apple_hit_1       0.93      1.00      0.96       234
+   apple_pink_lady_1       0.93      0.44      0.59       156
+         apple_red_1       0.75      0.56      0.64       154
+         apple_red_2       0.66      0.75      0.70       100
+         apple_red_3       0.96      0.78      0.86       120
+apple_red_delicios_1       0.84      0.75      0.80       130
+  apple_red_yellow_1       0.60      0.72      0.65       154
+      apple_rotten_1       0.73      0.97      0.83       156
+     cabbage_white_1       0.00      0.00      0.00        47
+            carrot_1       1.00      0.64      0.78        50
+          cucumber_1       0.77      0.48      0.59        50
+          cucumber_3       0.93      0.67      0.78        81
+   eggplant_violet_1       0.87      0.89      0.88        80
+              pear_1       0.93      0.80      0.86       162
+              pear_3       0.88      1.00      0.94        72
+          zucchini_1       0.97      0.88      0.92        80
+     zucchini_dark_1       0.78      0.83      0.81        70
+
+            accuracy                           0.79      2934
+           macro avg       0.79      0.76      0.76      2934
+        weighted avg       0.80      0.79      0.78      2934
